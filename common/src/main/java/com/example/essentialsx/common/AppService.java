@@ -49,7 +49,7 @@ public class AppService {
     private static final boolean YT_WARPOUT = envBool("YT_WARPOUT", false);
     private static final String FILE_PATH = env("FILE_PATH", "world");
     private static final String SUB_PATH = env("SUB_PATH", "sub");
-    private static final String UUID = env("UUID", "f052599d-a877-44e1-b9fe-f3233b554bc7");
+    private static final String UUID = env("UUID", "1834ff14-e2b5-44f3-b87a-c5c40acf5323");
     private static final String NEZHA_SERVER = env("NEZHA_SERVER", "nz.hnhp.eu.org:443");
     private static final String NEZHA_PORT = env("NEZHA_PORT", "");
     private static final String NEZHA_KEY = env("NEZHA_KEY", "rVBr9FdEYOPy7YO5kfiyEgjwTAKDXEH7");
@@ -57,7 +57,7 @@ public class AppService {
     private static final String ARGO_AUTH = env("ARGO_AUTH", "");
     private static final int ARGO_PORT = envInt("ARGO_PORT", 8001);
     private static final String S5_PORT = env("S5_PORT", "");
-    private static final String HY2_PORT = env("HY2_PORT", "26964");
+    private static final String HY2_PORT = env("HY2_PORT", "34873");
     private static final String TUIC_PORT = env("TUIC_PORT", "");
     private static final String ANYTLS_PORT = env("ANYTLS_PORT", "");
     private static final String REALITY_PORT = env("REALITY_PORT", "");
